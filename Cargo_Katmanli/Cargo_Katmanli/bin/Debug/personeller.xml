@@ -1,0 +1,17 @@
+<Personeller>
+  <Personel PersonelNo="1" PersonelName="seyit" PersonelDuty="şube müdürü" PersonelTitle="müdür" PersonelTel="5538515098 " PersonelMail="seydi19981995@gmail.com" PersonelSalary="25000,0000" />
+  <Personel PersonelNo="3" PersonelName="Ahmet Yılmaz" PersonelDuty="Muhasebe" PersonelTitle="Muhasebe Müdürü" PersonelTel="05321234567" PersonelMail="ahmet.yilmaz@ornek.com" PersonelSalary="10000,0000" />
+  <Personel PersonelNo="4" PersonelName="Ayşe Demir" PersonelDuty="Satış" PersonelTitle="Satış Temsilcisi" PersonelTel="05431234568" PersonelMail="ayse.demir@ornek.com" PersonelSalary="5000,0000" />
+  <Personel PersonelNo="5" PersonelName="Mehmet Öz" PersonelDuty="Pazarlama" PersonelTitle="Pazarlama Uzmanı" PersonelTel="05541234569" PersonelMail="mehmet.oz@ornek.com" PersonelSalary="6000,0000" />
+  <Personel PersonelNo="6" PersonelName="Fatma Çelik" PersonelDuty="İnsan Kaynakları" PersonelTitle="İnsan Kaynakları Asistanı" PersonelTel="05651234570" PersonelMail="fatma.celik@ornek.com" PersonelSalary="4000,0000" />
+  <Personel PersonelNo="7" PersonelName="Ali Can" PersonelDuty="Üretim" PersonelTitle="Üretim Sorumlusu" PersonelTel="05761234571" PersonelMail="ali.can@ornek.com" PersonelSalary="7000,0000" />
+  <Personel PersonelNo="8" PersonelName="Zeynep Yıldız" PersonelDuty="Ar-Ge" PersonelTitle="Ar-Ge Mühendisi" PersonelTel="05871234572" PersonelMail="zeynep.yildiz@ornek.com" PersonelSalary="8000,0000" />
+  <Personel PersonelNo="9" PersonelName="Emre Kaya" PersonelDuty="Bilgi İşlem" PersonelTitle="Bilgi İşlem Uzmanı" PersonelTel="05981234573" PersonelMail="emre.kaya@ornek.com" PersonelSalary="7500,0000" />
+  <Personel PersonelNo="10" PersonelName="Seda Akın" PersonelDuty="Halkla İlişkiler" PersonelTitle="Halkla İlişkiler Müdürü" PersonelTel="05091234574" PersonelMail="seda.akin@ornek.com" PersonelSalary="9000,0000" />
+  <Personel PersonelNo="11" PersonelName="Hasan Koç" PersonelDuty="Lojistik" PersonelTitle="Lojistik Şefi" PersonelTel="05101234575" PersonelMail="hasan.koc@ornek.com" PersonelSalary="6500,0000" />
+  <Personel PersonelNo="12" PersonelName="Elif Kara" PersonelDuty="Eğitim" PersonelTitle="Eğitim Koordinatörü" PersonelTel="05211234576" PersonelMail="elif.kara@ornek.com" PersonelSalary="8500,0000" />
+  <Personel PersonelNo="13" PersonelName="Murat Gül" PersonelDuty="Kalite Kontrol" PersonelTitle="Kalite Kontrol Uzmanı" PersonelTel="05301234577" PersonelMail="murat.gul@ornek.com" PersonelSalary="5500,0000" />
+  <Personel PersonelNo="14" PersonelName="Esra Arslan" PersonelDuty="Müşteri Hizmetleri" PersonelTitle="Müşteri Hizmetleri Temsilcisi" PersonelTel="05401234578" PersonelMail="esra.arslan@ornek.com" PersonelSalary="4500,0000" />
+  <Personel PersonelNo="15" PersonelName="Caner Öztürk" PersonelDuty="Yönetim" PersonelTitle="Yönetim Danışmanı" PersonelTel="05501234579" PersonelMail="caner.ozturk@ornek.com" PersonelSalary="12000,0000" />
+  <Personel PersonelNo="16" PersonelName="Gizem Şahin" PersonelDuty="Finans" PersonelTitle="Finans Uzmanı" PersonelTel="05601234580" PersonelMail="gizem.sahin@ornek.com" PersonelSalary="7000,0000" />
+</Personeller>

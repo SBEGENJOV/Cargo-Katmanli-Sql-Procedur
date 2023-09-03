@@ -1,0 +1,23 @@
+<Sevkler>
+  <Sevk shipmentNo="1" shipmentName="yurt içi" shipmentPickup="ağrı" shipmentDistance="1000" shipmentTransport="istanbul" vehiclesNo="1" />
+  <Sevk shipmentNo="6" shipmentName="Gönderi 1" shipmentPickup="İstanbul" shipmentDistance="450" shipmentTransport="Ankara" vehiclesNo="1" />
+  <Sevk shipmentNo="7" shipmentName="Gönderi 2" shipmentPickup="İzmir" shipmentDistance="300" shipmentTransport="Bursa" vehiclesNo="21" />
+  <Sevk shipmentNo="8" shipmentName="Gönderi 3" shipmentPickup="Antalya" shipmentDistance="600" shipmentTransport="Adana" vehiclesNo="22" />
+  <Sevk shipmentNo="9" shipmentName="Gönderi 4" shipmentPickup="Samsun" shipmentDistance="350" shipmentTransport="Trabzon" vehiclesNo="4" />
+  <Sevk shipmentNo="10" shipmentName="Gönderi 5" shipmentPickup="Erzurum" shipmentDistance="500" shipmentTransport="Van" vehiclesNo="5" />
+  <Sevk shipmentNo="11" shipmentName="Gönderi 6" shipmentPickup="Ankara" shipmentDistance="450" shipmentTransport="İstanbul" vehiclesNo="6" />
+  <Sevk shipmentNo="12" shipmentName="Gönderi 7" shipmentPickup="Bursa" shipmentDistance="300" shipmentTransport="İzmir" vehiclesNo="7" />
+  <Sevk shipmentNo="13" shipmentName="Gönderi 8" shipmentPickup="Adana" shipmentDistance="600" shipmentTransport="Antalya" vehiclesNo="8" />
+  <Sevk shipmentNo="14" shipmentName="Gönderi 9" shipmentPickup="Trabzon" shipmentDistance="350" shipmentTransport="Samsun" vehiclesNo="9" />
+  <Sevk shipmentNo="15" shipmentName="Gönderi 10" shipmentPickup="Van" shipmentDistance="500" shipmentTransport="Erzurum" vehiclesNo="10" />
+  <Sevk shipmentNo="16" shipmentName="Gönderi 11" shipmentPickup="Konya" shipmentDistance="300" shipmentTransport="Kayseri" vehiclesNo="11" />
+  <Sevk shipmentNo="17" shipmentName="Gönderi 12" shipmentPickup="Kayseri" shipmentDistance="300" shipmentTransport="Konya" vehiclesNo="12" />
+  <Sevk shipmentNo="18" shipmentName="Gönderi 13" shipmentPickup="Edirne" shipmentDistance="200" shipmentTransport="Tekirdağ" vehiclesNo="13" />
+  <Sevk shipmentNo="19" shipmentName="Gönderi 14" shipmentPickup="Tekirdağ" shipmentDistance="200" shipmentTransport="Edirne" vehiclesNo="14" />
+  <Sevk shipmentNo="20" shipmentName="Gönderi 15" shipmentPickup="Diyarbakır" shipmentDistance="100" shipmentTransport="Mardin" vehiclesNo="15" />
+  <Sevk shipmentNo="21" shipmentName="Gönderi 16" shipmentPickup="Mardin" shipmentDistance="100" shipmentTransport="Diyarbakır" vehiclesNo="16" />
+  <Sevk shipmentNo="22" shipmentName="Gönderi 17" shipmentPickup="Eskişehir" shipmentDistance="150" shipmentTransport="Bilecik" vehiclesNo="4" />
+  <Sevk shipmentNo="23" shipmentName="Gönderi 18" shipmentPickup="Bilecik" shipmentDistance="150" shipmentTransport="Eskişehir" vehiclesNo="16" />
+  <Sevk shipmentNo="24" shipmentName="Gönderi 19" shipmentPickup="Muğla" shipmentDistance="250" shipmentTransport="Denizli" vehiclesNo="13" />
+  <Sevk shipmentNo="25" shipmentName="Gönderi 20" shipmentPickup="Denizli" shipmentDistance="250" shipmentTransport="Muğla" vehiclesNo="5" />
+</Sevkler>

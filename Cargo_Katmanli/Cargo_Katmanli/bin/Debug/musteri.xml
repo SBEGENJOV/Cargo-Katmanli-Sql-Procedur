@@ -1,0 +1,24 @@
+<Kullanıcılar>
+  <Musteri CustomerNo="1" CustomerName="Furkan Çalışkan" CustomerAdres="Zeytinburnu" CustomerPhone="05515252654" CustomerMail="furkan1234567" CustomerPayment="32000,0000" shipmentNo="1" />
+  <Musteri CustomerNo="2" CustomerName="Ahmet Güven" CustomerAdres="Aydın caddesi no:23" CustomerPhone="05345354564" CustomerMail="serdar@gmail.com" CustomerPayment="3000,0000" shipmentNo="25" />
+  <Musteri CustomerNo="8" CustomerName="Ali Yılmaz" CustomerAdres="Ankara Caddesi No:10" CustomerPhone="05321234567" CustomerMail="aliyilmaz@gmail.com" CustomerPayment="1000,0000" shipmentNo="22" />
+  <Musteri CustomerNo="9" CustomerName="Mehmet Özcan" CustomerAdres="İzmir Sokak No:20" CustomerPhone="05431234567" CustomerMail="mehmetozcan@hotmail.com" CustomerPayment="1500,0000" shipmentNo="21" />
+  <Musteri CustomerNo="10" CustomerName="Ayşe Demir" CustomerAdres="Antalya Mahallesi No:30" CustomerPhone="05541234567" CustomerMail="aysedemir@yahoo.com" CustomerPayment="2000,0000" shipmentNo="22" />
+  <Musteri CustomerNo="11" CustomerName="Ali Çelik" CustomerAdres="Samsun Bulvarı No:40" CustomerPhone="05651234567" CustomerMail="alicelik@outlook.com" CustomerPayment="2500,0000" shipmentNo="23" />
+  <Musteri CustomerNo="12" CustomerName="Emre Kaya" CustomerAdres="Erzurum Yolu No:50" CustomerPhone="05761234567" CustomerMail="emrekaya@icloud.com" CustomerPayment="3000,0000" shipmentNo="24" />
+  <Musteri CustomerNo="13" CustomerName="Zeynep Yıldız" CustomerAdres="İstanbul Caddesi No:60" CustomerPhone="05331234567" CustomerMail="zeynepyildiz@gmail.com" CustomerPayment="3500,0000" shipmentNo="25" />
+  <Musteri CustomerNo="14" CustomerName="Murat Karaca" CustomerAdres="Bursa Sokak No:70" CustomerPhone="05441234567" CustomerMail="muratkaraca@hotmail.com" CustomerPayment="4000,0000" shipmentNo="7" />
+  <Musteri CustomerNo="15" CustomerName="Seda Öztürk" CustomerAdres="Adana Mahallesi No:80" CustomerPhone="05551234567" CustomerMail="sedaozturk@yahoo.com" CustomerPayment="4500,0000" shipmentNo="8" />
+  <Musteri CustomerNo="16" CustomerName="Can Gül" CustomerAdres="Trabzon Bulvarı No:90" CustomerPhone="05661234567" CustomerMail="cangul@outlook.com" CustomerPayment="5000,0000" shipmentNo="9" />
+  <Musteri CustomerNo="17" CustomerName="Deniz Arslan" CustomerAdres="Van Yolu No:100" CustomerPhone="05771234567" CustomerMail="denizarslan@icloud.com" CustomerPayment="5500,0000" shipmentNo="10" />
+  <Musteri CustomerNo="18" CustomerName="Ebru Akın" CustomerAdres="Konya Caddesi No:110" CustomerPhone="05341234567" CustomerMail="ebruakin@gmail.com" CustomerPayment="6000,0000" shipmentNo="11" />
+  <Musteri CustomerNo="19" CustomerName="Kerem Şahin" CustomerAdres="Kayseri Sokak No:120" CustomerPhone="05451234567" CustomerMail="keremsahin@hotmail.com" CustomerPayment="6500,0000" shipmentNo="12" />
+  <Musteri CustomerNo="20" CustomerName="Bilge Erdoğan" CustomerAdres="Edirne Mahallesi No:130" CustomerPhone="05561234567" CustomerMail="bilgeerdogan@yahoo.com" CustomerPayment="7000,0000" shipmentNo="13" />
+  <Musteri CustomerNo="21" CustomerName="Cem Özdemir" CustomerAdres="Tekirdağ Bulvarı No:140" CustomerPhone="05671234567" CustomerMail="cemozdemir@outlook.com" CustomerPayment="7500,0000" shipmentNo="14" />
+  <Musteri CustomerNo="22" CustomerName="Esra Yavuz" CustomerAdres="Diyarbakır Yolu No:150" CustomerPhone="05781234567" CustomerMail="esrayavuz@icloud.com" CustomerPayment="8000,0000" shipmentNo="15" />
+  <Musteri CustomerNo="23" CustomerName="Fatih Koç" CustomerAdres="Mardin Caddesi No:160" CustomerPhone="05351234567" CustomerMail="fatihkoc@gmail.com" CustomerPayment="8500,0000" shipmentNo="16" />
+  <Musteri CustomerNo="24" CustomerName="Gizem Çetin" CustomerAdres="Eskişehir Sokak No:170" CustomerPhone="05461234567" CustomerMail="gizemcetin@hotmail.com" CustomerPayment="9000,0000" shipmentNo="17" />
+  <Musteri CustomerNo="25" CustomerName="Hakan Özkan" CustomerAdres="Bilecik Mahallesi No:180" CustomerPhone="05571234567" CustomerMail="hakanozkan@yahoo.com" CustomerPayment="9500,0000" shipmentNo="18" />
+  <Musteri CustomerNo="26" CustomerName="İrem Yalçın" CustomerAdres="Muğla Bulvarı No:190" CustomerPhone="05681234567" CustomerMail="iremyalcin@outlook.com" CustomerPayment="10000,0000" shipmentNo="19" />
+  <Musteri CustomerNo="27" CustomerName="Kaan Aydın" CustomerAdres="Denizli Yolu No:200" CustomerPhone="05791234567" CustomerMail="kaanaydin@icloud.com " CustomerPayment="10500,0000" shipmentNo="20" />
+</Kullanıcılar>

@@ -1,0 +1,17 @@
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\Cargo_Katmanli.exe.config
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\Cargo_Katmanli.exe
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\Cargo_Katmanli.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\BL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\BL.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.csproj.AssemblyReference.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.csproj.SuggestedBindingRedirects.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.Form1.resources
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.Properties.Resources.resources
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.csproj.GenerateResource.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.csproj.CoreCompileInputs.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.csproj.CopyComplete
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.exe
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\DAL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\bin\Debug\DAL.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\Cargo_Katmanli\obj\Debug\Cargo_Katmanli.Form2.resources

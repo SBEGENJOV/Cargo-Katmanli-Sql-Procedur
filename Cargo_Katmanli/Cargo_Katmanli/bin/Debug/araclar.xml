@@ -1,0 +1,23 @@
+<Araclar>
+  <Arac vehicleNo="1" vehicleName="Uluslararası tır" vehicleCapacity="20" vehicleDriver="Ahmet" vehicleExpense="3000,0000" personelNo="1" />
+  <Arac vehicleNo="4" vehicleName="Ford Transit" vehicleCapacity="12" vehicleDriver="Ahmet Yılmaz" vehicleExpense="2500,0000" personelNo="1" />
+  <Arac vehicleNo="5" vehicleName="Renault Master" vehicleCapacity="10" vehicleDriver="Mehmet Özcan" vehicleExpense="2300,0000" personelNo="3" />
+  <Arac vehicleNo="6" vehicleName="Toyota Proace" vehicleCapacity="12" vehicleDriver="Ayşe Demir" vehicleExpense="2600,0000" personelNo="4" />
+  <Arac vehicleNo="7" vehicleName="Fiat Ducato" vehicleCapacity="10" vehicleDriver="Ali Çelik" vehicleExpense="2200,0000" personelNo="5" />
+  <Arac vehicleNo="8" vehicleName="Volkswagen Crafter" vehicleCapacity="12" vehicleDriver="Emre Kaya" vehicleExpense="2700,0000" personelNo="16" />
+  <Arac vehicleNo="9" vehicleName="Hyundai H350" vehicleCapacity="10" vehicleDriver="Zeynep Yıldız" vehicleExpense="2400,0000" personelNo="6" />
+  <Arac vehicleNo="10" vehicleName="Honda Elysion" vehicleCapacity="8" vehicleDriver="Murat Karaca" vehicleExpense="2100,0000" personelNo="7" />
+  <Arac vehicleNo="11" vehicleName="Opel Movano" vehicleCapacity="10" vehicleDriver="Seda Öztürk" vehicleExpense="2300,0000" personelNo="8" />
+  <Arac vehicleNo="12" vehicleName="Peugeot Boxer" vehicleCapacity="10" vehicleDriver="Can Gül" vehicleExpense="2200,0000" personelNo="9" />
+  <Arac vehicleNo="13" vehicleName="Nissan NV400" vehicleCapacity="12" vehicleDriver="Deniz Arslan" vehicleExpense="2500,0000" personelNo="10" />
+  <Arac vehicleNo="14" vehicleName="BMW X5" vehicleCapacity="7" vehicleDriver="Ebru Akın" vehicleExpense="3000,0000" personelNo="11" />
+  <Arac vehicleNo="15" vehicleName="Mercedes Sprinter" vehicleCapacity="12" vehicleDriver="Kerem Şahin" vehicleExpense="2800,0000" personelNo="12" />
+  <Arac vehicleNo="16" vehicleName="Audi Q7" vehicleCapacity="7" vehicleDriver="Bilge Erdoğan" vehicleExpense="3100,0000" personelNo="13" />
+  <Arac vehicleNo="17" vehicleName="Skoda Kodiaq" vehicleCapacity="7" vehicleDriver="Cem Özdemir" vehicleExpense="2600,0000" personelNo="14" />
+  <Arac vehicleNo="18" vehicleName="Citroen Jumper" vehicleCapacity="10" vehicleDriver="Esra Yavuz" vehicleExpense="2200,0000" personelNo="15" />
+  <Arac vehicleNo="19" vehicleName="Dacia Dokker" vehicleCapacity="5" vehicleDriver="Fatih Koç" vehicleExpense="1800,0000" personelNo="16" />
+  <Arac vehicleNo="20" vehicleName="Kia Sorento" vehicleCapacity="7" vehicleDriver="Gizem Çetin" vehicleExpense="2700,0000" personelNo="1" />
+  <Arac vehicleNo="21" vehicleName="Volvo XC90" vehicleCapacity="7" vehicleDriver="Hakan Özkan" vehicleExpense="2900,0000" personelNo="5" />
+  <Arac vehicleNo="22" vehicleName="Mazda CX-9" vehicleCapacity="7" vehicleDriver="İrem Yalçın" vehicleExpense="2800,0000" personelNo="16" />
+  <Arac vehicleNo="23" vehicleName="Chevrolet Captiva" vehicleCapacity="7" vehicleDriver="Kaan Aydın" vehicleExpense="2500,0000" personelNo="15" />
+</Araclar>

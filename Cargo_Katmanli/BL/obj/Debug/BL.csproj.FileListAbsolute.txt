@@ -1,0 +1,9 @@
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\bin\Debug\BL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\bin\Debug\BL.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\bin\Debug\DAL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\bin\Debug\DAL.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\obj\Debug\BL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\BL\obj\Debug\BL.pdb

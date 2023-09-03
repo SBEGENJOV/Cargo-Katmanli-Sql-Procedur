@@ -1,0 +1,6 @@
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\DAL\bin\Debug\DAL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\DAL\bin\Debug\DAL.pdb
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\DAL\obj\Debug\DAL.dll
+C:\Users\S_BEGENJOV\Desktop\wissen\Cargo_Katmanli\DAL\obj\Debug\DAL.pdb
